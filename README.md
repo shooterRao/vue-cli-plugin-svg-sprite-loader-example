@@ -1,4 +1,4 @@
-# vue-cli-plugin-svg-sprite-loader-example
+# [vue-cli-plugin-svg-sprite-loader](https://github.com/shooterRao/vue-cli-plugin-svg-sprite-loader) example
 
 ## Project setup
 ```
